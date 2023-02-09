@@ -23,16 +23,17 @@ python manage.py migrate
 ``` sh 
 python manage.py runserver
 ```
-8. To acess the server go to the link:
+8. To access the server go to the link:
 ```
 http://localhost:8000/
 ```
+9. Use local.env to create a .env with the credentials send by e-mail.
 
 ## Usage
 
-* The DRF it's configured so when you acess the endpoit you will see all endpoints with frontend
-* To acess the endpoints documentation go to this [link](https://ljor47zd7j.execute-api.us-east-1.amazonaws.com/production/doc/).
-* To acess live DRF and the endtpoint go to this link [link](https://ljor47zd7j.execute-api.us-east-1.amazonaws.com/production/).
+* The DRF it's configured so when you access the endpoint you will see all endpoints with frontend
+* To access the endpoints documentation go to this [link](https://ljor47zd7j.execute-api.us-east-1.amazonaws.com/production/doc/).
+* To access live DRF and the endtpoint go to this link [link](https://ljor47zd7j.execute-api.us-east-1.amazonaws.com/production/).
 
 ## Deploy
 
