@@ -46,6 +46,13 @@ http://localhost:8000/
 * To run the tests you have two options `pytest` or `python manage.py test`
 * For the tests i used pytest and unittest.
 
+## Example get and post
+
+* Get Example
+![https://drive.google.com/file/d/1A79XzKeJfLb1QPCje4DDGUS2TEnleplZ/view?usp=share_link]
+
+* Post Example
+![https://drive.google.com/file/d/15JNceZp57Mshw5GnrXGjzU_iam3E0KHl/view?usp=share_link]
 ## Extras
 
 * To format the code i used black
