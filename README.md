@@ -49,10 +49,10 @@ http://localhost:8000/
 ## Example get and post
 
 * Get Example
-<img src="https://drive.google.com/uc?export=view&id=1A79XzKeJfLb1QPCje4DDGUS2TEnleplZ">
+<img src="https://drive.google.com/uc?id=1A79XzKeJfLb1QPCje4DDGUS2TEnleplZ">
 
 * Post Example
-<img src="https://drive.google.com/uc?export=view&id=15JNceZp57Mshw5GnrXGjzU_iam3E0KHl">
+<img src="https://drive.google.com/uc?id=15JNceZp57Mshw5GnrXGjzU_iam3E0KHl">
 
 ## Extras
 
